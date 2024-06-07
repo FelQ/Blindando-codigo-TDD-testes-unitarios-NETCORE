@@ -1,0 +1,14 @@
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\bin\Debug\net8.0\New Talents.exe
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\bin\Debug\net8.0\New Talents.deps.json
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\bin\Debug\net8.0\New Talents.runtimeconfig.json
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\bin\Debug\net8.0\New Talents.dll
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\bin\Debug\net8.0\New Talents.pdb
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\obj\Debug\net8.0\New Talents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\obj\Debug\net8.0\New Talents.AssemblyInfoInputs.cache
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\obj\Debug\net8.0\New Talents.AssemblyInfo.cs
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\obj\Debug\net8.0\New Talents.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\obj\Debug\net8.0\New Talents.dll
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\obj\Debug\net8.0\refint\New Talents.dll
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\obj\Debug\net8.0\New Talents.pdb
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\obj\Debug\net8.0\New Talents.genruntimeconfig.cache
+C:\Users\Lenovo IdeaPad\source\repos\New Talents\New Talents\obj\Debug\net8.0\ref\New Talents.dll
